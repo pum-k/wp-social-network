@@ -5535,7 +5535,7 @@ msgstr "%s's Bạn Bè"
 #: bp-members/classes/class-bp-core-members-widget.php:238
 #: bp-members/classes/class-bp-members-admin.php:1149
 msgid "Active"
-msgstr "Hoạt động"
+msgstr ""
 
 #: bp-friends/bp-friends-blocks.php:125
 #: bp-friends/classes/class-bp-core-friends-widget.php:109
@@ -5581,7 +5581,7 @@ msgstr[1] ""
 #: bp-groups/js/dynamic-groups.js:47 bp-members/js/blocks/members.js:358
 #: bp-members/js/dynamic-members.js:33
 msgid "Active %s"
-msgstr "Hoạt động %s"
+msgstr ""
 
 #: bp-friends/bp-friends-filters.php:66
 msgid "BuddyPress Friends"

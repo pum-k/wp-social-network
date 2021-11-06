@@ -17,7 +17,7 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "POT-Creation-Date: 2021-11-04 02:29+0000\n"
-"PO-Revision-Date: 2021-11-04 02:42+0000\n"
+"PO-Revision-Date: 2021-11-05 05:24+0000\n"
 "Language-Team: Tiếng Việt\n"
 "Language: vi\n"
 "X-Generator: Loco https://localise.biz/\n"
@@ -680,6 +680,7 @@ msgstr ""
 #: ../buddyx/template-parts/content/entry_meta.php:122
 msgid "Edit"
 msgstr ""
+"Chỉnh sửa\n"
 
 #. translators: %s: post title
 #: ../buddyx/template-parts/content/entry_actions.php:40
@@ -1245,7 +1246,7 @@ msgstr ""
 
 #: ../buddyx/inc/extra.php:153
 msgid "Members"
-msgstr ""
+msgstr "Thành Viên"
 
 #: ../buddyx/inc/Welcome/Component.php:482
 msgid "Members Default Cover Background"
@@ -1531,14 +1532,14 @@ msgstr[1] ""
 #: ../buddyx/template-parts/content/entry_meta.php:69
 msgctxt "post author"
 msgid "Written by  %s"
-msgstr "Đăng bởi"
+msgstr "Đăng bởi %s"
 
 #. translators: %s: post author
 #: ../buddyx/template-parts/content/entry_meta.php:66,
 #: ../buddyx/template-parts/content/entry_meta.php:74
 msgctxt "post author"
 msgid "Written by %s"
-msgstr ""
+msgstr "Đăng bởi %s"
 
 #. translators: %s: post date
 #: ../buddyx/template-parts/content/entry_meta.php:113
