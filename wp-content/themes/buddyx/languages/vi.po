@@ -17,7 +17,7 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "POT-Creation-Date: 2021-11-04 02:29+0000\n"
-"PO-Revision-Date: 2021-11-05 05:24+0000\n"
+"PO-Revision-Date: 2021-11-06 02:18+0000\n"
 "Language-Team: Tiếng Việt\n"
 "Language: vi\n"
 "X-Generator: Loco https://localise.biz/\n"
@@ -1621,7 +1621,7 @@ msgstr ""
 
 #: ../buddyx/inc/extra.php:138
 msgid "Profile"
-msgstr ""
+msgstr "Trang Cá nhân"
 
 #: ../buddyx/inc/widgets/bp-profile-completion-widget.php:434
 msgid "Profile field sets:"
