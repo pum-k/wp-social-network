@@ -4,13 +4,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BuddyPress\n"
 "Report-Msgid-Bugs-To: https://buddypress.trac.wordpress.org\n"
-"Last-Translator: \n"
+"Last-Translator: Onichan\n"
 "Language-Team: Tiếng Việt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2021-08-18T02:26:36+02:00\n"
-"PO-Revision-Date: 2021-11-06 12:02+0000\n"
+"PO-Revision-Date: 2021-11-08 11:26+0000\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Domain: buddypress\n"
 "Language: vi\n"
@@ -355,7 +355,7 @@ msgstr ""
 
 #: bp-activity/bp-activity-admin.php:672
 msgid "Delete Activities"
-msgstr ""
+msgstr "xóa hoạt động"
 
 #: bp-activity/bp-activity-admin.php:675
 msgid "You are about to delete the following activities:"
@@ -690,7 +690,7 @@ msgstr ""
 #. translators: %s: the activity author user link
 #: bp-activity/bp-activity-functions.php:1589
 msgid "%s posted an update"
-msgstr ""
+msgstr "%s đăng một bài viết"
 
 #. translators: %s: the activity author user link
 #: bp-activity/bp-activity-functions.php:1616
@@ -974,7 +974,7 @@ msgstr ""
 #: bp-xprofile/classes/class-bp-xprofile-field-type.php:431
 #: bp-xprofile/classes/class-bp-xprofile-field.php:1474
 msgid "Delete"
-msgstr ""
+msgstr "xóa"
 
 #: bp-activity/bp-activity-template.php:2772
 #: bp-core/admin/bp-core-admin-functions.php:1185
@@ -1592,7 +1592,7 @@ msgstr ""
 #: bp-blogs/bp-blogs-template.php:641
 msgctxt "last time the site was active"
 msgid "Active %s"
-msgstr ""
+msgstr "Hoạt Động %s"
 
 #: bp-blogs/bp-blogs-template.php:654 bp-members/bp-members-template.php:1005
 msgid "Never active"
@@ -1717,7 +1717,7 @@ msgstr ""
 #: bp-messages/bp-messages-template.php:861
 #: bp-templates/bp-legacy/buddypress/common/search/dir-search-form.php:15
 msgid "Search"
-msgstr ""
+msgstr "Tìm kiêm"
 
 #: bp-blogs/bp-blogs-template.php:1559
 msgid "Visit Site"
@@ -3486,7 +3486,7 @@ msgstr ""
 #: bp-core/bp-core-functions.php:3037
 msgctxt "email post type label"
 msgid "Search Emails"
-msgstr ""
+msgstr "Tìm kiêm Email"
 
 #: bp-core/bp-core-functions.php:3038
 msgctxt "email post type singular name"
@@ -3581,7 +3581,7 @@ msgstr ""
 #: bp-core/bp-core-functions.php:3162
 msgctxt "email type taxonomy label"
 msgid "Search Emails"
-msgstr ""
+msgstr "Tìm kiêm Email"
 
 #: bp-core/bp-core-functions.php:3163
 msgctxt "email type taxonomy singular name"
@@ -5535,7 +5535,7 @@ msgstr "%s's Bạn Bè"
 #: bp-members/classes/class-bp-core-members-widget.php:238
 #: bp-members/classes/class-bp-members-admin.php:1149
 msgid "Active"
-msgstr ""
+msgstr "Hoạt động"
 
 #: bp-friends/bp-friends-blocks.php:125
 #: bp-friends/classes/class-bp-core-friends-widget.php:109
@@ -5581,7 +5581,7 @@ msgstr[1] ""
 #: bp-groups/js/dynamic-groups.js:47 bp-members/js/blocks/members.js:358
 #: bp-members/js/dynamic-members.js:33
 msgid "Active %s"
-msgstr ""
+msgstr "Hoạt động %s"
 
 #: bp-friends/bp-friends-filters.php:66
 msgid "BuddyPress Friends"
@@ -6106,7 +6106,7 @@ msgstr ""
 #. translators: 1: the user link. 2: the group link.
 #: bp-groups/bp-groups-activity.php:240
 msgid "%1$s posted an update in the group %2$s"
-msgstr ""
+msgstr "%1$s đăng một bài viết trong nhóm %2$s"
 
 #: bp-groups/bp-groups-admin.php:35 bp-groups/bp-groups-admin.php:82
 msgctxt "Admin Groups page title"
@@ -6890,7 +6890,7 @@ msgstr ""
 
 #: bp-groups/bp-groups-functions.php:3337
 msgid "Sent To"
-msgstr ""
+msgstr "gửi tới"
 
 #: bp-groups/bp-groups-functions.php:3348
 msgid "Pending Group Invitations (Sent)"
@@ -8364,7 +8364,7 @@ msgstr ""
 #. translators: %s: user link
 #: bp-members/bp-members-activity.php:114
 msgid "%s changed their profile picture"
-msgstr ""
+msgstr "%s đã thay đổi ảnh đại diện"
 
 #: bp-members/bp-members-admin.php:32 bp-members/bp-members-admin.php:33
 #: bp-members/bp-members-admin.php:41 bp-members/bp-members-admin.php:42
@@ -8418,11 +8418,11 @@ msgstr ""
 
 #: bp-members/bp-members-adminbar.php:42
 msgid "Edit My Profile"
-msgstr ""
+msgstr "chỉnh sửa trang cả nhân"
 
 #: bp-members/bp-members-adminbar.php:96
 msgid "Edit Member"
-msgstr ""
+msgstr "chỉnh sửa thanh viên"
 
 #: bp-members/bp-members-adminbar.php:105
 #: bp-members/classes/class-bp-members-admin.php:447
@@ -8432,16 +8432,16 @@ msgstr ""
 #: bp-templates/bp-nouveau/buddypress/members/single/profile/edit.php:11
 #: bp-xprofile/bp-xprofile-template.php:1230
 msgid "Edit Profile"
-msgstr ""
+msgstr "Chỉnh sửa thông tin cá nhân"
 
 #: bp-members/bp-members-adminbar.php:114
 #: bp-members/classes/class-bp-members-admin.php:1305
 msgid "Edit Profile Photo"
-msgstr ""
+msgstr "chỉnh sửa ảnh"
 
 #: bp-members/bp-members-adminbar.php:124
 msgid "Edit Cover Image"
-msgstr ""
+msgstr "chỉnh sửa ảnh bài"
 
 #: bp-members/bp-members-adminbar.php:136
 msgid "User Capabilities"
@@ -8456,7 +8456,7 @@ msgstr ""
 #: bp-templates/bp-nouveau/buddypress/members/single/settings/delete-account.php:12
 #: bp-templates/bp-nouveau/includes/functions.php:1322
 msgid "Delete Account"
-msgstr ""
+msgstr "xóa tài khoản"
 
 #: bp-members/bp-members-adminbar.php:217
 #: bp-members/bp-members-invitations.php:43
@@ -9620,7 +9620,7 @@ msgstr ""
 #: bp-templates/bp-legacy/buddypress/members/single/invitations/invitations-loop.php:25
 #: bp-templates/bp-nouveau/buddypress/members/single/invitations/invitations-loop.php:23
 msgid "Sent"
-msgstr ""
+msgstr "đã gửi"
 
 #: bp-members/classes/class-bp-members-invitations-list-table.php:207
 #: bp-templates/bp-legacy/buddypress/members/single/invitations/invitations-loop.php:23
@@ -9695,7 +9695,7 @@ msgstr ""
 #: bp-members/classes/class-bp-members-list-table.php:154
 #: bp-members/classes/class-bp-members-ms-list-table.php:141
 msgid "Last Sent"
-msgstr ""
+msgstr "gần cuối cùng gửi"
 
 #: bp-members/classes/class-bp-members-list-table.php:155
 #: bp-members/classes/class-bp-members-ms-list-table.php:142
@@ -10310,7 +10310,7 @@ msgstr ""
 #: bp-templates/bp-legacy/buddypress-functions.php:349
 #: bp-templates/bp-nouveau/includes/messages/functions.php:128
 msgid "Starred"
-msgstr ""
+msgstr "Đã gắn "
 
 #: bp-messages/bp-messages-star.php:110
 #: bp-templates/bp-legacy/buddypress-functions.php:350
@@ -10377,12 +10377,12 @@ msgstr ""
 #: bp-messages/bp-messages-template.php:1007
 msgctxt "Message dropdown filter"
 msgid "Read"
-msgstr ""
+msgstr "đã xem"
 
 #: bp-messages/bp-messages-template.php:1008
 msgctxt "Message dropdown filter"
 msgid "Unread"
-msgstr ""
+msgstr "Chưa xem"
 
 #: bp-messages/bp-messages-template.php:1009
 msgctxt "Message dropdown filter"
@@ -10392,12 +10392,12 @@ msgstr ""
 #: bp-messages/bp-messages-template.php:1014
 msgctxt "Message management markup"
 msgid "Mark as Read"
-msgstr ""
+msgstr "đánh dấu đã xem"
 
 #: bp-messages/bp-messages-template.php:1015
 msgctxt "Message management markup"
 msgid "Mark as Unread"
-msgstr ""
+msgstr "đánh dấu chưa xem"
 
 #: bp-messages/bp-messages-template.php:1022
 msgid "Delete Selected"
@@ -10406,12 +10406,12 @@ msgstr ""
 #: bp-messages/bp-messages-template.php:1039
 #: bp-notifications/bp-notifications-template.php:1031
 msgid "Mark read"
-msgstr ""
+msgstr "đã xem"
 
 #: bp-messages/bp-messages-template.php:1040
 #: bp-notifications/bp-notifications-template.php:1033
 msgid "Mark unread"
-msgstr ""
+msgstr "đánh dấu chưa xem"
 
 #: bp-messages/bp-messages-template.php:1051
 #: bp-notifications/bp-notifications-template.php:1037
@@ -10448,7 +10448,7 @@ msgstr ""
 #. translators: %s: last activity timestamp (e.g. "active 1 hour ago")
 #: bp-messages/bp-messages-template.php:2105
 msgid "Sent %s"
-msgstr ""
+msgstr "đã gửi %s"
 
 #: bp-messages/bp-messages-template.php:2162
 msgid "[deleted]"
@@ -10477,7 +10477,7 @@ msgstr ""
 #: bp-messages/classes/class-bp-messages-component.php:276
 #: bp-messages/classes/class-bp-messages-component.php:377
 msgid "Compose"
-msgstr ""
+msgstr "biên soạn"
 
 #: bp-messages/classes/class-bp-messages-component.php:291
 msgid "Notices"
@@ -10925,13 +10925,13 @@ msgstr ""
 #: bp-notifications/bp-notifications-template.php:650
 #: bp-templates/bp-legacy/buddypress/members/single/messages/messages-loop.php:145
 msgid "Unread"
-msgstr ""
+msgstr "Chưa xem"
 
 #: bp-notifications/bp-notifications-functions.php:892
 #: bp-notifications/bp-notifications-template.php:558
 #: bp-templates/bp-legacy/buddypress/members/single/messages/messages-loop.php:143
 msgid "Read"
-msgstr ""
+msgstr "đã xem"
 
 #: bp-notifications/bp-notifications-template.php:474
 msgid "Date not found"
@@ -10985,12 +10985,12 @@ msgstr "Thông Báo "
 #: bp-notifications/classes/class-bp-notifications-component.php:187
 msgctxt "Notification screen nav"
 msgid "Unread"
-msgstr ""
+msgstr "Chưa xem"
 
 #: bp-notifications/classes/class-bp-notifications-component.php:198
 msgctxt "Notification screen nav"
 msgid "Read"
-msgstr ""
+msgstr "đã xem"
 
 #. translators: %s: Unread notification count for the current user
 #: bp-notifications/classes/class-bp-notifications-component.php:234
@@ -11002,7 +11002,7 @@ msgstr "Thông Báo %s"
 #: bp-notifications/classes/class-bp-notifications-component.php:239
 msgctxt "My Account Notification pending"
 msgid "Unread %s"
-msgstr ""
+msgstr "Chưa xem %s"
 
 #: bp-notifications/classes/class-bp-notifications-component.php:243
 msgctxt "My Account Notification"
@@ -11012,12 +11012,12 @@ msgstr "Thông Báo "
 #: bp-notifications/classes/class-bp-notifications-component.php:244
 msgctxt "My Account Notification sub nav"
 msgid "Unread"
-msgstr ""
+msgstr "Chưa xem"
 
 #: bp-notifications/classes/class-bp-notifications-component.php:268
 msgctxt "My Account Notification sub nav"
 msgid "Read"
-msgstr ""
+msgstr "đã xem"
 
 #: bp-notifications/classes/class-bp-notifications-template.php:240
 msgctxt "Notifications pagination previous text"
@@ -12436,7 +12436,7 @@ msgstr ""
 #. translators: accessibility text
 #: bp-templates/bp-legacy/buddypress/members/single/messages.php:49
 msgid "Sent Messages"
-msgstr ""
+msgstr "tin nhắn đã gửi"
 
 #. translators: accessibility text
 #: bp-templates/bp-legacy/buddypress/members/single/messages.php:89
@@ -12446,7 +12446,7 @@ msgstr ""
 #. translators: accessibility text
 #: bp-templates/bp-legacy/buddypress/members/single/messages/compose.php:13
 msgid "Compose Message"
-msgstr ""
+msgstr "soạn tin nhắn"
 
 #: bp-templates/bp-legacy/buddypress/members/single/messages/compose.php:27
 msgid "Send To (Username or Friend's Name)"
@@ -12463,7 +12463,7 @@ msgstr ""
 #. translators: accessibility text
 #: bp-templates/bp-legacy/buddypress/members/single/messages/messages-loop.php:21
 msgid "Starred messages"
-msgstr ""
+msgstr "gắn sao tin nhắn"
 
 #: bp-templates/bp-legacy/buddypress/members/single/messages/messages-loop.php:64
 msgid "From"
@@ -12496,7 +12496,7 @@ msgstr ""
 
 #: bp-templates/bp-legacy/buddypress/members/single/messages/notices-loop.php:64
 msgid "Sent:"
-msgstr ""
+msgstr "đã gửi"
 
 #: bp-templates/bp-legacy/buddypress/members/single/messages/notices-loop.php:78
 msgid "Delete Message"
@@ -12538,7 +12538,7 @@ msgstr ""
 #: bp-templates/bp-legacy/buddypress/members/single/notifications/feedback-no-notifications.php:17
 #: bp-templates/bp-nouveau/includes/functions.php:1134
 msgid "You have no unread notifications."
-msgstr ""
+msgstr "Bạn không có thông báo"
 
 #: bp-templates/bp-legacy/buddypress/members/single/notifications/feedback-no-notifications.php:21
 #: bp-templates/bp-nouveau/includes/functions.php:1131
@@ -12623,7 +12623,7 @@ msgstr ""
 #. translators: %s: profile group name
 #: bp-templates/bp-legacy/buddypress/members/single/profile/edit.php:30
 msgid "Editing '%s' Profile Group"
-msgstr ""
+msgstr "chỉnh sửa '%s' thông tin cá nhân"
 
 #: bp-templates/bp-legacy/buddypress/members/single/profile/edit.php:35
 msgid "Profile field groups"
@@ -12900,12 +12900,12 @@ msgstr ""
 #: bp-templates/bp-nouveau/buddypress/common/js-templates/group-members/index.php:81
 msgctxt "group member edit role link"
 msgid "Edit"
-msgstr ""
+msgstr "chỉnh sửa"
 
 #: bp-templates/bp-nouveau/buddypress/common/js-templates/group-members/index.php:84
 msgctxt "group member edit role abort link"
 msgid "Stop editing"
-msgstr ""
+msgstr "Ngưng chỉnh sửa"
 
 #: bp-templates/bp-nouveau/buddypress/common/js-templates/group-members/index.php:87
 msgctxt "group member ban link"
@@ -12939,7 +12939,7 @@ msgstr ""
 #: bp-templates/bp-nouveau/buddypress/common/search/search-form.php:19
 msgctxt "button"
 msgid "Search"
-msgstr ""
+msgstr "Tìm kiêm"
 
 #: bp-templates/bp-nouveau/buddypress/common/js-templates/group-members/index.php:137
 msgctxt "link"
@@ -13029,7 +13029,7 @@ msgstr ""
 
 #: bp-templates/bp-nouveau/buddypress/common/js-templates/messages/index.php:104
 msgid "All Messages"
-msgstr ""
+msgstr "Tất cả tin nhắn"
 
 #: bp-templates/bp-nouveau/buddypress/common/js-templates/messages/index.php:108
 msgid "Select bulk action"
@@ -13041,19 +13041,19 @@ msgstr ""
 
 #: bp-templates/bp-nouveau/buddypress/common/js-templates/messages/index.php:169
 msgid "Active conversation:"
-msgstr ""
+msgstr "Cuộc trò chuyện gần đây"
 
 #: bp-templates/bp-nouveau/buddypress/common/js-templates/messages/index.php:175
 #: bp-templates/bp-nouveau/buddypress/common/js-templates/messages/index.php:238
 msgid "Participants:"
-msgstr ""
+msgstr "Người tham gia cuộc trò chuyện"
 
 #: bp-templates/bp-nouveau/buddypress/common/js-templates/messages/index.php:188
 #: bp-templates/bp-nouveau/buddypress/common/js-templates/messages/index.php:189
 #: bp-templates/bp-nouveau/buddypress/common/js-templates/messages/index.php:250
 #: bp-templates/bp-nouveau/buddypress/common/js-templates/messages/index.php:251
 msgid "Delete conversation."
-msgstr ""
+msgstr "xóa cuộc trò chuyện"
 
 #: bp-templates/bp-nouveau/buddypress/common/js-templates/messages/index.php:195
 #: bp-templates/bp-nouveau/buddypress/common/js-templates/messages/index.php:196
@@ -13063,7 +13063,7 @@ msgstr ""
 #: bp-templates/bp-nouveau/buddypress/common/js-templates/messages/index.php:199
 #: bp-templates/bp-nouveau/buddypress/common/js-templates/messages/index.php:200
 msgid "Star Conversation"
-msgstr ""
+msgstr "gắn sao cuộc trò chuyện"
 
 #: bp-templates/bp-nouveau/buddypress/common/js-templates/messages/index.php:206
 #: bp-templates/bp-nouveau/buddypress/common/js-templates/messages/index.php:207
@@ -13280,7 +13280,7 @@ msgstr ""
 #: bp-templates/bp-nouveau/buddypress/members/single/parts/profile-visibility.php:21
 #: bp-templates/bp-nouveau/buddypress/members/single/parts/profile-visibility.php:44
 msgid "This field may be seen by: %s"
-msgstr ""
+msgstr "thông tin này mọi người có thể thấy: %s"
 
 #: bp-templates/bp-nouveau/buddypress/members/single/parts/profile-visibility.php:25
 msgctxt "button"
@@ -13353,11 +13353,11 @@ msgstr ""
 
 #: bp-templates/bp-nouveau/buddypress/members/single/settings/general.php:12
 msgid "Email & Password"
-msgstr ""
+msgstr "Email và mật khẩu"
 
 #: bp-templates/bp-nouveau/buddypress/members/single/settings/general.php:16
 msgid "Update your email and or password."
-msgstr ""
+msgstr "cập nhật thông tin email và mật khẩu"
 
 #. translators: %s: email requirement explanations
 #: bp-templates/bp-nouveau/buddypress/members/single/settings/general.php:26
@@ -13789,7 +13789,7 @@ msgstr ""
 
 #: bp-templates/bp-nouveau/includes/functions.php:974
 msgid "Loading the update. Please wait."
-msgstr ""
+msgstr "đang cập nhập , vui lòng chờ"
 
 #: bp-templates/bp-nouveau/includes/functions.php:986
 msgid "Site registration is currently disabled."
@@ -13805,7 +13805,7 @@ msgstr ""
 
 #: bp-templates/bp-nouveau/includes/functions.php:998
 msgid "Sorry, there were no groups found."
-msgstr ""
+msgstr "không có nhóm nào được tìm thấy"
 
 #: bp-templates/bp-nouveau/includes/functions.php:1002
 msgid "Loading the group updates. Please wait."
@@ -13858,7 +13858,7 @@ msgstr ""
 
 #: bp-templates/bp-nouveau/includes/functions.php:1071
 msgid "Loading the member's blogs. Please wait."
-msgstr ""
+msgstr "kiểm tra thành viên trong blogs, vui long chờ"
 
 #: bp-templates/bp-nouveau/includes/functions.php:1075
 msgid "Loading the member's friends. Please wait."
@@ -13870,7 +13870,7 @@ msgstr ""
 
 #: bp-templates/bp-nouveau/includes/functions.php:1083
 msgid "Loading notifications. Please wait."
-msgstr ""
+msgstr "Kiểm tra thông báo. Vui lòng chờ"
 
 #: bp-templates/bp-nouveau/includes/functions.php:1087
 msgid ""
@@ -13887,19 +13887,20 @@ msgstr ""
 
 #: bp-templates/bp-nouveau/includes/functions.php:1144
 msgid "Loading your updates. Please wait."
-msgstr ""
+msgstr "đang cập nhật thông tin của bạn . vui lòng chờ"
 
 #: bp-templates/bp-nouveau/includes/functions.php:1146
 msgid "Loading your blogs. Please wait."
 msgstr ""
+"đang kiểm tra bài viết của bạn. vui lòng chờ\n"
 
 #: bp-templates/bp-nouveau/includes/functions.php:1148
 msgid "Loading your friends. Please wait."
-msgstr ""
+msgstr "đang kiểm tra bạn bè . Vui lòng chờ"
 
 #: bp-templates/bp-nouveau/includes/functions.php:1150
 msgid "Loading your groups. Please wait."
-msgstr ""
+msgstr "đang kiểm tra nhóm của bạn. vui lòng chờ"
 
 #: bp-templates/bp-nouveau/includes/functions.php:1210
 msgid "Site URL"
@@ -14031,7 +14032,7 @@ msgstr ""
 
 #: bp-templates/bp-nouveau/includes/groups/functions.php:157
 msgid "Loading members. Please wait."
-msgstr ""
+msgstr "Kiểm tra thành viên . Vui lòng chờ"
 
 #: bp-templates/bp-nouveau/includes/groups/functions.php:158
 msgid ""
@@ -14271,7 +14272,7 @@ msgstr ""
 
 #: bp-templates/bp-nouveau/includes/messages/functions.php:102
 msgid "Loading messages. Please wait."
-msgstr ""
+msgstr "Kiểm tra tin nhắn. Vui lòng chờ"
 
 #: bp-templates/bp-nouveau/includes/messages/functions.php:104
 msgid "Marking messages as read. Please wait."
@@ -14298,6 +14299,8 @@ msgid ""
 "Click on the message title to preview it in the Active conversation box "
 "below."
 msgstr ""
+"Nhấp vào tiêu đề thư để xem trước trong hộp Cuộc trò chuyện hiện hoạt bên "
+"dưới."
 
 #: bp-templates/bp-nouveau/includes/messages/functions.php:112
 msgid ""
@@ -14330,12 +14333,12 @@ msgstr ""
 #: bp-templates/bp-nouveau/includes/notifications/functions.php:231
 msgctxt "link"
 msgid "Mark Read"
-msgstr ""
+msgstr "đánh đâu đã xem"
 
 #: bp-templates/bp-nouveau/includes/notifications/template-tags.php:110
 msgctxt "button"
 msgid "Mark read"
-msgstr ""
+msgstr "Đánh dâu đã xem"
 
 #: bp-templates/bp-nouveau/includes/notifications/template-tags.php:112
 msgctxt "button"
@@ -14396,7 +14399,7 @@ msgstr ""
 #. translators: %s: user profile link
 #: bp-xprofile/bp-xprofile-activity.php:60
 msgid "%s's profile was updated"
-msgstr ""
+msgstr "%s's cập nhật thông tin cá nhân"
 
 #: bp-xprofile/bp-xprofile-admin.php:28
 msgctxt "xProfile admin page title"
@@ -14565,7 +14568,7 @@ msgstr ""
 #: bp-xprofile/bp-xprofile-admin.php:1100
 msgctxt "Edit field link"
 msgid "Edit"
-msgstr ""
+msgstr "chỉnh sửa"
 
 #: bp-xprofile/bp-xprofile-admin.php:1105
 msgctxt "Delete field link"
@@ -14989,7 +14992,7 @@ msgstr ""
 #: bp-xprofile/classes/class-bp-xprofile-component.php:267
 msgctxt "Profile header sub menu"
 msgid "Edit"
-msgstr ""
+msgstr "chỉnh sửa"
 
 #: bp-xprofile/classes/class-bp-xprofile-component.php:309
 msgctxt "Profile settings sub nav"
@@ -14999,7 +15002,7 @@ msgstr ""
 #: bp-xprofile/classes/class-bp-xprofile-component.php:355
 msgctxt "My Account Profile sub nav"
 msgid "Edit"
-msgstr ""
+msgstr "chỉnh sửa"
 
 #: bp-xprofile/classes/class-bp-xprofile-component.php:384
 msgctxt "Page title"
