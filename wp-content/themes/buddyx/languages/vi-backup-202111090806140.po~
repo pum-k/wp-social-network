@@ -6,7 +6,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Last-Translator: \n"
+"Last-Translator: Onichan\n"
 "Report-Msgid-Bugs-To: Buddyx\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:"
@@ -17,7 +17,7 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "POT-Creation-Date: 2021-11-04 02:29+0000\n"
-"PO-Revision-Date: 2021-11-04 02:42+0000\n"
+"PO-Revision-Date: 2021-11-09 08:02+0000\n"
 "Language-Team: Tiếng Việt\n"
 "Language: vi\n"
 "X-Generator: Loco https://localise.biz/\n"
@@ -680,6 +680,7 @@ msgstr ""
 #: ../buddyx/template-parts/content/entry_meta.php:122
 msgid "Edit"
 msgstr ""
+"Chỉnh sửa\n"
 
 #. translators: %s: post title
 #: ../buddyx/template-parts/content/entry_actions.php:40
@@ -1195,11 +1196,11 @@ msgstr ""
 
 #: ../buddyx/template-parts/header/buddypress-profile.php:87
 msgid "Login"
-msgstr ""
+msgstr "Đăng Nhập"
 
 #: ../buddyx/inc/Kirki_Option/Component.php:351
 msgid "Login Page"
-msgstr ""
+msgstr "Trang Đăng Nhập"
 
 #: ../buddyx/inc/Editor/Component.php:139
 msgid "M"
@@ -1245,7 +1246,7 @@ msgstr ""
 
 #: ../buddyx/inc/extra.php:153
 msgid "Members"
-msgstr ""
+msgstr "Thành Viên"
 
 #: ../buddyx/inc/Welcome/Component.php:482
 msgid "Members Default Cover Background"
@@ -1620,7 +1621,7 @@ msgstr ""
 
 #: ../buddyx/inc/extra.php:138
 msgid "Profile"
-msgstr ""
+msgstr "Trang Cá nhân"
 
 #: ../buddyx/inc/widgets/bp-profile-completion-widget.php:434
 msgid "Profile field sets:"
@@ -1686,11 +1687,11 @@ msgstr ""
 #: ../buddyx/template-parts/header/buddypress-profile.php:94,
 #: ../buddyx/template-parts/header/buddypress-profile.php:94
 msgid "Register"
-msgstr ""
+msgstr "Đăng Ký"
 
 #: ../buddyx/inc/Kirki_Option/Component.php:362
 msgid "Registration Page"
-msgstr ""
+msgstr "Trang đăng ký"
 
 #: ../buddyx/woocommerce/cart/cart.php:58
 msgid "Remove this item"

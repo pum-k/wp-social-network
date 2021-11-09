@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2021-08-18T02:26:36+02:00\n"
-"PO-Revision-Date: 2021-11-08 11:27+0000\n"
+"PO-Revision-Date: 2021-11-09 08:37+0000\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Domain: buddypress\n"
 "Language: vi\n"
@@ -608,7 +608,7 @@ msgstr ""
 #: bp-templates/bp-nouveau/includes/activity/ajax.php:157
 #: bp-templates/bp-nouveau/includes/functions.php:978
 msgid "Sorry, there was no activity found. Please try a different filter."
-msgstr ""
+msgstr "Rất tiết, không tìm thấy bài viết nào"
 
 #. translators: 1: oEmbed author. 2: oEmbed provider. eg. By BuddyPress on YouTube.
 #: bp-activity/bp-activity-embeds.php:285
@@ -1037,7 +1037,7 @@ msgstr ""
 
 #: bp-activity/classes/class-bp-activity-component.php:207
 msgid "Search Activity..."
-msgstr ""
+msgstr "Tìm Kiếm Hoạt Động gần đây.."
 
 #: bp-activity/classes/class-bp-activity-component.php:251
 msgctxt "Profile activity screen nav"
@@ -1078,7 +1078,7 @@ msgstr ""
 #: bp-activity/classes/class-bp-activity-component.php:353
 msgctxt "Toolbar Mention logged in user"
 msgid "Mentions"
-msgstr ""
+msgstr "Đè Cập"
 
 #: bp-activity/classes/class-bp-activity-component.php:361
 msgctxt "My Account Activity sub nav"
@@ -5694,7 +5694,7 @@ msgstr ""
 #: bp-templates/bp-nouveau/includes/groups/functions.php:146
 #: bp-templates/bp-nouveau/includes/members/functions.php:85
 msgid "My Friends"
-msgstr ""
+msgstr "Bạn Bè"
 
 #: bp-friends/bp-friends-template.php:94
 msgid "See All"
@@ -6491,7 +6491,7 @@ msgstr ""
 #: bp-templates/bp-nouveau/includes/functions.php:1354
 #: bp-templates/bp-nouveau/includes/groups/template-tags.php:358
 msgid "Save Changes"
-msgstr ""
+msgstr "Lưu thay đổi"
 
 #. translators: accessibility text
 #: bp-groups/bp-groups-admin.php:1153
@@ -6642,7 +6642,7 @@ msgstr[1] ""
 #: bp-groups/bp-groups-cssjs.php:62
 msgctxt "Group Manage Members dropdown default option"
 msgid "All members"
-msgstr ""
+msgstr "Tất cả các Thành viên"
 
 #: bp-groups/bp-groups-filters.php:375
 msgid "BuddyPress Group Memberships"
@@ -8854,7 +8854,7 @@ msgstr ""
 #: bp-members/bp-members-template.php:504
 msgid "Viewing %1$s - %2$s of %3$s active member"
 msgid_plural "Viewing %1$s - %2$s of %3$s active members"
-msgstr[0] ""
+msgstr[0] "Xem %1$s - %2$s trong %3$s Thành viên hoạt động"
 msgstr[1] ""
 
 #: bp-members/bp-members-template.php:508
@@ -9175,7 +9175,7 @@ msgstr ""
 #. translators: %s: date
 #: bp-members/classes/class-bp-members-admin.php:1236
 msgid "Last active: %1$s"
-msgstr ""
+msgstr "Lần Cuối Hoạt Động  %1$s"
 
 #: bp-members/classes/class-bp-members-admin.php:1299
 msgid "Delete Profile Photo"
@@ -9544,7 +9544,7 @@ msgstr ""
 
 #: bp-members/classes/class-bp-members-component.php:192
 msgid "Search Members..."
-msgstr ""
+msgstr "Tìm kiếm thành viên..."
 
 #: bp-members/classes/class-bp-members-component.php:355
 msgctxt "Profile header sub menu"
@@ -11340,7 +11340,7 @@ msgstr ""
 #: bp-templates/bp-nouveau/includes/activity/ajax.php:119
 #: bp-templates/bp-nouveau/includes/activity/functions.php:230
 msgid "My Favorites"
-msgstr ""
+msgstr "Sở Thích"
 
 #: bp-templates/bp-legacy/buddypress-functions.php:309
 msgid "Rejected"
@@ -11354,7 +11354,7 @@ msgstr ""
 #: bp-templates/bp-nouveau/includes/activity/template-tags.php:386
 #: bp-templates/bp-nouveau/includes/activity/template-tags.php:387
 msgid "Remove Favorite"
-msgstr ""
+msgstr "xóa yêu thích"
 
 #: bp-templates/bp-legacy/buddypress-functions.php:311
 msgid "Show all"
@@ -11495,7 +11495,7 @@ msgstr ""
 #: bp-templates/bp-legacy/buddypress/activity/index.php:63
 #: bp-templates/bp-legacy/buddypress/members/index.php:62
 msgid "All Members %s"
-msgstr ""
+msgstr "Tất cả các thành viên %s"
 
 #. translators: %s: number of friends
 #: bp-templates/bp-legacy/buddypress/activity/index.php:87
@@ -11512,12 +11512,12 @@ msgstr ""
 #. translators: %s: number of favorites
 #: bp-templates/bp-legacy/buddypress/activity/index.php:140
 msgid "My Favorites %s"
-msgstr ""
+msgstr "Sở Thích %s"
 
 #: bp-templates/bp-legacy/buddypress/activity/index.php:160
 #: bp-templates/bp-nouveau/includes/activity/functions.php:276
 msgid "Mentions"
-msgstr ""
+msgstr "Đè Cập"
 
 #. translators: %s: new mentions count
 #: bp-templates/bp-legacy/buddypress/activity/index.php:167
@@ -11735,7 +11735,7 @@ msgstr ""
 #: bp-templates/bp-nouveau/includes/groups/functions.php:640
 #: bp-templates/bp-nouveau/includes/members/functions.php:120
 msgid "Last Active"
-msgstr ""
+msgstr "Lần cuối hoạt động"
 
 #. translators: accessibility text
 #: bp-templates/bp-legacy/buddypress/blogs/index.php:131
@@ -12323,7 +12323,7 @@ msgstr ""
 #. translators: accessibility text
 #: bp-templates/bp-legacy/buddypress/members/single/friends.php:59
 msgid "My friends"
-msgstr ""
+msgstr "Bạn Bè"
 
 #. translators: accessibility text
 #: bp-templates/bp-legacy/buddypress/members/single/friends/requests.php:21
@@ -12924,7 +12924,7 @@ msgstr ""
 
 #: bp-templates/bp-nouveau/buddypress/common/js-templates/group-members/index.php:114
 msgid "Search Members"
-msgstr ""
+msgstr "Tìm kiếm thành viên"
 
 #: bp-templates/bp-nouveau/buddypress/common/js-templates/group-members/index.php:116
 #: bp-templates/bp-nouveau/buddypress/common/js-templates/invites/index.php:130
@@ -13002,7 +13002,7 @@ msgstr ""
 #: bp-templates/bp-nouveau/buddypress/common/js-templates/invites/index.php:129
 msgctxt "heading"
 msgid "Search Members"
-msgstr ""
+msgstr "Tìm kiếm thành viên"
 
 #: bp-templates/bp-nouveau/buddypress/common/js-templates/invites/index.php:143
 #: bp-templates/bp-nouveau/buddypress/common/js-templates/invites/index.php:145
@@ -13375,7 +13375,7 @@ msgstr "Nhấp vào nút \"Tạo Mật khẩu\" để thay đổi mật khẩu c
 
 #: bp-templates/bp-nouveau/buddypress/members/single/settings/general.php:43
 msgid "Generate Password"
-msgstr ""
+msgstr "Tạo mật khẩu"
 
 #: bp-templates/bp-nouveau/buddypress/members/single/settings/general.php:47
 msgid "Add Your New Password"
@@ -13467,7 +13467,7 @@ msgstr ""
 #: bp-templates/bp-nouveau/includes/groups/functions.php:125
 #: bp-templates/bp-nouveau/includes/members/functions.php:72
 msgid "All Members"
-msgstr ""
+msgstr "Tất cả các thành viên"
 
 #: bp-templates/bp-nouveau/includes/activity/functions.php:256
 #: bp-templates/bp-nouveau/includes/groups/functions.php:572
@@ -14977,7 +14977,7 @@ msgstr ""
 #: bp-xprofile/classes/class-bp-xprofile-component.php:191
 msgctxt "Visibility level setting"
 msgid "My Friends"
-msgstr ""
+msgstr "Bạn Bè"
 
 #: bp-xprofile/classes/class-bp-xprofile-component.php:247
 msgctxt "Profile header menu"
